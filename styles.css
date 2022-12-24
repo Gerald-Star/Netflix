@@ -1,0 +1,66 @@
+
+
+body {
+    letter-spacing: 4px;
+    background: #b7111b;
+    color: #fafaf4;
+    text-align: center;
+    font-family: 'kanit', sans-serif;
+}
+
+#netflix1{
+    background: whitesmoke;
+    font-size: 80px;
+    text-shadow: 0px 0px 2px black;
+    
+}
+
+#netflix1{
+    font-size: 80px;
+    text-shadow: 5px 5px 5px black;
+    
+}
+
+#netflix2{
+    font-size: 80px;
+    text-shadow: -5px 0px black;
+    
+}
+
+#netflix3{
+    font-size: 80px;
+    text-shadow: 5px 20px black;
+    
+}
+
+#netflix4{
+    font-size: 80px;
+    text-shadow: 5px -30px black;
+    
+}
+
+#netflix5{
+    font-size: 80px;
+    text-shadow: 5px 5px black;
+    
+}
+
+#netflix6{
+    font-size: 80px;
+    text-shadow: -5px 5px 0px black;
+    
+}
+
+#netflix7{
+    font-size: 80px;
+    text-shadow: -5px 5px 50px black;
+    
+}
+
+
+#netflix8{
+    font-size: 80px;
+    text-shadow: 5px -5px 5px black;
+    
+}
+
